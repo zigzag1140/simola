@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708946335331",
+    "project_id": "simola-2f527",
+    "storage_bucket": "simola-2f527.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708946335331:android:c6b6ff5e9ce9b501abca56",
+        "android_client_info": {
+          "package_name": "com.example.simola"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8oviNW-xXv9RkczbBpliXXpNG2ZmRPqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
